@@ -6,23 +6,6 @@ My core interest are in **integrating stochastic modelling, econometrics, and ma
 
 ---
 
-## 🔍 Current Focus
-
-- **Quantitative Research & Alpha Generation**
-  - WorldQuant BRAIN: large-scale alpha generation, simulation, ranking, and correlation control
-  - Signal robustness, overfitting diagnostics, IS/OOS degradation analysis
-  - Factor construction across price, fundamental, analyst, and sentiment datasets
-
-- **Machine Learning for Markets**
-  - Time-series models: LSTM, GRU, TCN, TFT
-  - Tree-based models: LightGBM for structured financial data
-  - Emphasis on *interpretability, regime sensitivity, and realistic evaluation*
-
-- **Stochastic & Econometric Modelling**
-  - Jump processes, non-Gaussian dynamics
-  - Unit roots, cointegration, spurious regression
-  - Volatility modelling
-
 ## 🧠 Research & Projects
 
 ### 🔹 Alpha Research Pipeline
@@ -41,25 +24,6 @@ My core interest are in **integrating stochastic modelling, econometrics, and ma
 - FastAPI backends for research tooling
 - Async pipelines, logging, reproducibility
 - Dockerised development environments
-
----
-
-## 🛠️ Technical Stack
-
-**Languages**
-- Python, MATLAB, SQL  
-- Familiar with C, C++
-
-**Libraries & Tools**
-- NumPy, pandas, SciPy, statsmodels, seaborn
-- PyTorch, TensorFlow, LightGBM
-- FastAPI, Docker, Git
-- Jupyter notebook
-
-**Quant Tooling**
-- WorldQuant BRAIN
-- Bloomberg Terminal
-- LaTeX for research writing
 
 ---
 
