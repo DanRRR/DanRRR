@@ -23,18 +23,6 @@ My core interest are in **integrating stochastic modelling, econometrics, and ma
   - Unit roots, cointegration, spurious regression
   - Volatility modelling
 
----
-
-## 🎓 Education
-
-**MSc Quantitative Finance**  
-Bayes Business School (City, University of London)  
-
-**BSc Computer Science (Hons)**  
-University of Leeds  
-
----
-
 ## 🧠 Research & Projects
 
 ### 🔹 Alpha Research Pipeline
@@ -83,12 +71,6 @@ University of Leeds
 - Robust model validation
 - Agentic AI for research workflows
 - Combining theory with empirical ML
-
----
-
-## 🧭 Career Direction
-
-My long-term goal is to work as a **Quantitative Researcher or Quantitative Strategist**, contributing to the design, validation, and deployment of systematic strategies.
 
 ---
 
