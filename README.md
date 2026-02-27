@@ -39,7 +39,7 @@ My core interest are in **integrating stochastic modelling, econometrics, and ma
 ---
 
 ## 📫 Get in Touch
-- **Portfolio** [Danruksujarit.com](danruksujarit.com)
+- **Portfolio** [Danruksujarit.com](https://www.danruksujarit.com)
 - **LinkedIn:** [Thiraphat Ruksujarit](https://www.linkedin.com/in/thiraphat-ruksujarit/)
 - **GitHub:** You’re already here
 
