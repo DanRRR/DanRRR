@@ -30,6 +30,7 @@ My core interest are in **integrating stochastic modelling, econometrics, and ma
 ## 📊 Selected Interests
 
 - Systematic trading & signal research
+- Stochastic Control in Discrete Time
 - Market microstructure
 - Regime-aware models
 - Robust model validation
